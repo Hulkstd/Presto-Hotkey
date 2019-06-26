@@ -1,13 +1,11 @@
 ﻿using Presto.Component.Controls;
-using Presto.SDK;
 using System.Collections.Generic;
 using System.Windows.Controls;
 using System.Windows.Input;
-using Presto.Input;
 using System.IO;
-using System.Runtime.Serialization;
 using System;
 using Newtonsoft.Json;
+using Presto.Hotkey.Input;
 
 namespace Presto.Hotkey.Dialogs
 {

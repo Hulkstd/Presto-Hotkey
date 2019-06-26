@@ -3,7 +3,7 @@ using Presto.Common.Services;
 using Presto.SDK;
 using System.Linq;
 using Presto.Hotkey.Input;
-using Presto.Dialogs;
+using Presto.Hotkey.Dialogs;
 using System.IO;
 using System.Reflection;
 using System;

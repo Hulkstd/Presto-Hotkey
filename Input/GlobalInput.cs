@@ -103,11 +103,6 @@ namespace Presto.Hotkey.Input
             {
                 string str = KeyToString(key);
 
-                if(key == Key.LeftCtrl)
-                {
-                    str = str;
-                }
-
                 if (str == "Ctrl" || str == "Alt" || str == "Shift")
                 {
                     if (currentSingleKeyStates.ContainsKey(str))
