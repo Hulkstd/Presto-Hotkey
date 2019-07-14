@@ -12,7 +12,7 @@
  
 ## 적용법
 
- 1. 먼저 플러그인을 [다운받은](https://github.com/Hulkstd/Presto-Hotkey/releases) 다음에. 압축을 푼다.
+ 1. 먼저 가장  플러그인을 [다운받은](https://github.com/Hulkstd/Presto-Hotkey/releases) 다음에. 압축을 푼다.
 
  2. Win + R을 눌러 실행창을 열은다음, %appdata$를 입력한다.
  
