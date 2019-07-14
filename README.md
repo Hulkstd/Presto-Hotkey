@@ -18,4 +18,4 @@
  
  3. Presto폴더를 찾은 뒤, Plugins폴더를 들어간다.
  
- 4. Plugins폴더에 폴더를 하나 만든뒤 압축을 푼 다음 나온것을 넣은뒤 Presto를 실행한다.
+ 4. Plugins폴더에 Presto-Hotkey 폴더를 하나 만든뒤 압축을 푼 다음 나온것을 넣은뒤 Presto를 실행한다.
