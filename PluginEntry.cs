@@ -46,7 +46,7 @@ namespace Presto.Hotkey
 
         public override void OnLoad()
         {
-            PluginData.basePath = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Presto\\Plugins\\Test";
+            PluginData.basePath = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Presto\\Plugins\\Presto-Hotkey";
 
             if(PluginData.GlobalInputEvent == null)
             {
